@@ -16,9 +16,7 @@ Use your knowledge of object-oriented programming, ArrayLists, the String class,
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
-
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project](https://github.com/user-attachments/assets/23bed63d-5814-4971-add1-62d1f14d4bf3)
 
 ## Video
 
@@ -30,7 +28,7 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my project](nameOfThumbnail.png)](youtube-URL-here)
 
 ## Project Description
 
@@ -38,4 +36,4 @@ My goal is to help people improve their typing speed as well as accuracy. With w
 
 ## NLP Techniques
 
-I used the Natural Language Technique of text generation to randomly select words from the words.txt file and generate them in a random order. The method addRandomWords is associated with this text generation, as it adds these words into the array. Then the method createSentence converts the elements in the list to a string and spaces the words out.
+I used the Natural Language Technique of text generation to randomly select words from the words.txt file and generate them in a random order. The method addRandomWords is associated with this text generation, as it adds these words into the array. Then the method createSentence converts the elements in the list to a string and spaces the words out. Another NLP technique I used is semantic matching which I used to compare the generated sentence to the sentence the user typed and find the accuracy based on how close they match each other.
